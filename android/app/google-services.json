@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "136415840079",
+    "project_id": "akhiro-spolangui",
+    "storage_bucket": "akhiro-spolangui.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136415840079:android:b660ed95710d5b1ec6273a",
+        "android_client_info": {
+          "package_name": "com.akhiro.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBcM5aSAfHS0YHS_L6Ay78H8N6E3h7_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136415840079:android:b5f78bc1154efd80c6273a",
+        "android_client_info": {
+          "package_name": "com.example.akhiro_cafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBcM5aSAfHS0YHS_L6Ay78H8N6E3h7_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136415840079:android:ddb14113a6e09f6cc6273a",
+        "android_client_info": {
+          "package_name": "com.polanguii_akhirocafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBcM5aSAfHS0YHS_L6Ay78H8N6E3h7_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
